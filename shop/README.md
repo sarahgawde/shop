@@ -1,4 +1,2 @@
-cart-api
-========
-
-A RESTful shopping cart API based on the Django Rest Framework
+assgn 2 for api implementation: 
+using django rest framework for api a cart. 
